@@ -1,0 +1,1 @@
+THe javascript code for the binary gap codility challenge and the cyclic rotation challenge.
